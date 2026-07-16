@@ -1,5 +1,8 @@
 # swaylock-effects
 
+> **Created by Antono**
+
+
 Swaylock-effects is a fork of [swaylock](https://github.com/swaywm/swaylock)
 which adds built-in screenshots and image manipulation effects like blurring.
 It's inspired by [i3lock-color](https://github.com/PandorasFox/i3lock-color),
