@@ -1,2 +1,26 @@
-Last updated: 2026-09-14 03:00:06 WIB
-Last updated: 2026-09-14 04:50:56 WIB
+# swaylock-effects
+
+
+
+## 📋 Overview
+
+This repository contains **49 files** and is built with the following technologies:
+
+Not detected
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Not detected
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-14 04:57:55 WIB*
